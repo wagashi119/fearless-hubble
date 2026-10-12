@@ -48,3 +48,6 @@ dist-ssr/
 *_log.json
 *-log.json
 *.log.json
+
+# Local standalone preview
+ココフォリア_タイムラインビューア.html
